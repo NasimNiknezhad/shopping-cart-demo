@@ -1,0 +1,12 @@
+.container {
+    font-family: Arial, sans-serif;
+    padding: 16px;
+    max-width: 1200px;
+    margin: auto;
+  }
+  
+  .product-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+  }
